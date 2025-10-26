@@ -1566,10 +1566,10 @@
       ]
     },
     {
-      "id": "weapon_tr_76_geist",
-      "name": "TR-76 Geist",
-      "rank": 66,
-      "type": "Assault Rifle",
+          "id": "tr_76_geist",
+          "name": "TR-76 Geist",
+          "rank": 66,
+          "type": "Assault Rifle",
       "attachments": [
         { "name": "NYDAR MODEL 2023", "type": "Optic" },
         { "name": "CASUS BRAKE", "type": "Muzzle" },
