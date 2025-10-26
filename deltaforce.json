@@ -5,7 +5,7 @@
       "name": "Meta",
       "weapons": [
         {
-          "id": "CI-19",
+          "id": "weapon_ci_19",
           "name": "CI-19",
           "type": "Rifle",
           "attachments": [
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "id": "M4A1",
+          "id": "weapon_m4a1",
           "name": "M4A1",
           "type": "Rifle",
           "attachments": [
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "id": "SMG-45",
+          "id": "weapon_smg_45",
           "name": "SMG-45",
           "type": "SMG",
           "attachments": [
@@ -58,7 +58,7 @@
           ]
         },
         {
-          "id": "SR-3M",
+          "id": "weapon_sr_3m",
           "name": "SR-3M",
           "type": "SMG",
           "attachments": [
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "id": "AWM",
+          "id": "weapon_awm",
           "name": "AWM",
           "type": "Sniper Rifle",
           "attachments": [
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "id": "R93",
+          "id": "weapon_r93",
           "name": "R93",
           "type": "Sniper Rifle",
           "attachments": [
@@ -106,7 +106,7 @@
       "name": "A Tier",
       "weapons": [
         {
-          "id": "G18",
+          "id": "weapon_g18",
           "name": "G18",
           "type": "Pistol",
           "attachments": [
@@ -119,7 +119,7 @@
           ]
         },
         {
-          "id": "SG552",
+          "id": "weapon_sg552",
           "name": "SG552",
           "type": "Rifle",
           "attachments": [
@@ -137,7 +137,7 @@
           ]
         },
         {
-          "id": "AKM",
+          "id": "weapon_akm",
           "name": "AKM",
           "type": "Rifle",
           "attachments": [
@@ -155,7 +155,7 @@
           ]
         },
         {
-          "id": "Bizon",
+          "id": "weapon_bizon",
           "name": "Bizon",
           "type": "SMG",
           "attachments": [
@@ -172,7 +172,7 @@
           ]
         },
         {
-          "id": "SV-98",
+          "id": "weapon_sv_98",
           "name": "SV-98",
           "type": "Sniper Rifle",
           "attachments": [
@@ -184,7 +184,7 @@
           ]
         },
         {
-          "id": "K437",
+          "id": "weapon_k437",
           "name": "K437",
           "type": "Rifle",
           "attachments": [
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "id": "QCQ171",
+          "id": "weapon_qcq171",
           "name": "QCQ171",
           "type": "SMG",
           "attachments": [
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "id": "M250",
+          "id": "weapon_m250",
           "name": "M250",
           "type": "LMG",
           "attachments": [
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "id": "QBZ95-1",
+          "id": "weapon_qbz95_1",
           "name": "QBZ95-1",
           "type": "Rifle",
           "attachments": [
@@ -251,7 +251,7 @@
           ]
         },
         {
-          "id": "Marlin Lever-action Rifle",
+          "id": "weapon_marlin_lever_action_rifle",
           "name": "Marlin Lever-action Rifle",
           "type": "Marksman Rifle",
           "attachments": [
@@ -265,7 +265,7 @@
           ]
         },
         {
-          "id": "AKS-74",
+          "id": "weapon_aks_74",
           "name": "AKS-74",
           "type": "Rifle",
           "attachments": [
@@ -284,7 +284,7 @@
           ]
         },
         {
-          "id": "Vector",
+          "id": "weapon_vector",
           "name": "Vector",
           "type": "SMG",
           "attachments": [
@@ -300,7 +300,7 @@
           ]
         },
         {
-          "id": "M7",
+          "id": "weapon_m7",
           "name": "M7",
           "type": "Rifle",
           "attachments": [
@@ -317,7 +317,7 @@
           ]
         },
         {
-          "id": "P90",
+          "id": "weapon_p90",
           "name": "P90",
           "type": "SMG",
           "attachments": [
@@ -332,7 +332,7 @@
           ]
         },
         {
-          "id": "AUG",
+          "id": "weapon_aug",
           "name": "AUG",
           "type": "Rifle",
           "attachments": [
@@ -348,7 +348,7 @@
           ]
         },
         {
-          "id": "S12K",
+          "id": "weapon_s12k",
           "name": "S12K",
           "type": "Shotgun",
           "attachments": [
@@ -365,7 +365,7 @@
           ]
         },
         {
-          "id": "KC17",
+          "id": "weapon_kc17",
           "name": "KC17",
           "type": "Rifle",
           "attachments": [
@@ -383,7 +383,7 @@
           ]
         },
         {
-          "id": "MP5",
+          "id": "weapon_mp5",
           "name": "MP5",
           "type": "SMG",
           "attachments": [
@@ -398,7 +398,7 @@
           ]
         },
         {
-          "id": "PKM",
+          "id": "weapon_pkm",
           "name": "PKM",
           "type": "LMG",
           "attachments": [
@@ -413,7 +413,7 @@
           ]
         },
         {
-          "id": "QJB201",
+          "id": "weapon_qjb201",
           "name": "QJB201",
           "type": "LMG",
           "attachments": [
@@ -430,7 +430,7 @@
           ]
         },
         {
-          "id": "PSG-1",
+          "id": "weapon_psg_1",
           "name": "PSG-1",
           "type": "Marksman Rifle",
           "attachments": [
@@ -448,7 +448,7 @@
           ]
         },
         {
-          "id": "M870",
+          "id": "weapon_m870",
           "name": "M870",
           "type": "Shotgun",
           "attachments": [
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "id": "Mini-14",
+          "id": "weapon_mini_14",
           "name": "Mini-14",
           "type": "Marksman Rifle",
           "attachments": [
@@ -479,7 +479,7 @@
           ]
         },
         {
-          "id": "CAR-15",
+          "id": "weapon_car_15",
           "name": "CAR-15",
           "type": "Rifle",
           "attachments": [
@@ -497,7 +497,7 @@
           ]
         },
         {
-          "id": "93R",
+          "id": "weapon_93r",
           "name": "93R",
           "type": "Pistol",
           "attachments": [
@@ -510,7 +510,7 @@
           ]
         },
         {
-          "id": "725 Double-Barrel Shotgun",
+          "id": "weapon_725_double_barrel_shotgun",
           "name": "725 Double-Barrel Shotgun",
           "type": "Shotgun",
           "attachments": [
@@ -527,7 +527,7 @@
       "name": "B Tier",
       "weapons": [
         {
-          "id": "G17",
+          "id": "weapon_g17",
           "name": "G17",
           "type": "Pistol",
           "attachments": [
@@ -539,7 +539,7 @@
           ]
         },
         {
-          "id": "SR-25",
+          "id": "weapon_sr_25",
           "name": "SR-25",
           "type": "Marksman Rifle",
           "attachments": [
@@ -557,7 +557,7 @@
           ]
         },
         {
-          "id": "G3",
+          "id": "weapon_g3",
           "name": "G3",
           "type": "Rifle",
           "attachments": [
@@ -574,7 +574,7 @@
           ]
         },
         {
-          "id": "M700",
+          "id": "weapon_m700",
           "name": "M700",
           "type": "Sniper Rifle",
           "attachments": [
@@ -589,7 +589,7 @@
           ]
         },
         {
-          "id": "M249",
+          "id": "weapon_m249",
           "name": "M249",
           "type": "LMG",
           "attachments": [
@@ -605,7 +605,7 @@
           ]
         },
         {
-          "id": "M1911",
+          "id": "weapon_m1911",
           "name": "M1911",
           "type": "Pistol",
           "attachments": [
@@ -620,7 +620,7 @@
           ]
         },
         {
-          "id": "VSS",
+          "id": "weapon_vss",
           "name": "VSS",
           "type": "Marksman Rifle",
           "attachments": [
@@ -635,7 +635,7 @@
           ]
         },
         {
-          "id": "SCAR-H",
+          "id": "weapon_scar_h",
           "name": "SCAR-H",
           "type": "Rifle",
           "attachments": [
@@ -651,7 +651,7 @@
           ]
         },
         {
-          "id": "Vityaz",
+          "id": "weapon_vityaz",
           "name": "Vityaz",
           "type": "SMG",
           "attachments": [
@@ -669,7 +669,7 @@
           ]
         },
         {
-          "id": "M14",
+          "id": "weapon_m14",
           "name": "M14",
           "type": "Marksman Rifle",
           "attachments": [
@@ -686,7 +686,7 @@
           ]
         },
         {
-          "id": "Desert Eagle",
+          "id": "weapon_desert_eagle",
           "name": "Desert Eagle",
           "type": "Pistol",
           "attachments": [
@@ -699,7 +699,7 @@
           ]
         },
         {
-          "id": "SVD",
+          "id": "weapon_svd",
           "name": "SVD",
           "type": "Marksman Rifle",
           "attachments": [
@@ -717,7 +717,7 @@
           ]
         },
         {
-          "id": "ASh-12",
+          "id": "weapon_ash_12",
           "name": "ASh-12",
           "type": "Rifle",
           "attachments": [
@@ -732,7 +732,7 @@
           ]
         },
         {
-          "id": "M1014",
+          "id": "weapon_m1014",
           "name": "M1014",
           "type": "Shotgun",
           "attachments": [
@@ -747,7 +747,7 @@
           ]
         },
         {
-          "id": "MK47 Assault Rifle",
+          "id": "weapon_mk47_assault_rifle",
           "name": "MK47 Assault Rifle",
           "type": "Rifle",
           "attachments": [
@@ -764,7 +764,7 @@
           ]
         },
         {
-          "id": "SKS",
+          "id": "weapon_sks",
           "name": "SKS",
           "type": "Marksman Rifle",
           "attachments": [
@@ -783,7 +783,7 @@
           ]
         },
         {
-          "id": "K416",
+          "id": "weapon_k416",
           "name": "K416",
           "type": "Rifle",
           "attachments": [
@@ -801,7 +801,7 @@
           ]
         },
         {
-          "id": "MP7",
+          "id": "weapon_mp7",
           "name": "MP7",
           "type": "SMG",
           "attachments": [
@@ -818,7 +818,7 @@
           ]
         },
         {
-          "id": "SR9",
+          "id": "weapon_sr9",
           "name": "SR9",
           "type": "Marksman Rifle",
           "attachments": [
@@ -834,7 +834,7 @@
           ]
         },
         {
-          "id": "AK-12",
+          "id": "weapon_ak_12",
           "name": "AK-12",
           "type": "Rifle",
           "attachments": [
@@ -852,7 +852,7 @@
           ]
         },
         {
-          "id": "AS Val",
+          "id": "weapon_as_val",
           "name": "AS Val",
           "type": "Rifle",
           "attachments": [
@@ -868,7 +868,7 @@
           ]
         },
         {
-          "id": "UZI",
+          "id": "weapon_uzi",
           "name": "UZI",
           "type": "SMG",
           "attachments": [
@@ -884,7 +884,7 @@
           ]
         },
         {
-          "id": "QSZ-92G",
+          "id": "weapon_qsz_92g",
           "name": "QSZ-92G",
           "type": "Pistol",
           "attachments": [
@@ -899,7 +899,7 @@
       "name": "C Tier",
       "weapons": [
         {
-          "id": "357 Revolver",
+          "id": "weapon_357_revolver",
           "name": ".357 Revolver",
           "type": "Pistol",
           "attachments": [
@@ -914,7 +914,7 @@
           ]
         },
         {
-          "id": "PTR-32",
+          "id": "weapon_ptr_32",
           "name": "PTR-32",
           "type": "Rifle",
           "attachments": [
@@ -931,7 +931,7 @@
           ]
         },
         {
-          "id": "M16A4",
+          "id": "weapon_m16a4",
           "name": "M16A4",
           "type": "Rifle",
           "attachments": [
@@ -949,7 +949,7 @@
           ]
         },
         {
-          "id": "Compound Bow",
+          "id": "weapon_compound_bow",
           "name": "Compound Bow",
           "type": "Special Weapon",
           "attachments": [
