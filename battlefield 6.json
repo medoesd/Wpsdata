@@ -5,7 +5,7 @@
       "name": "META",
       "weapons": [
         {
-          "id": "kord-6p67",
+          "id": "weapon_kord_6p67",
           "name": "KORD 6P67",
           "rank": 1,
           "type": "Assault Rifle",
@@ -20,7 +20,7 @@
           ]
         },
         {
-          "id": "pw5a3",
+          "id": "weapon_pw5a3",
           "name": "PW5A3",
           "rank": 1,
           "type": "SMG",
@@ -36,7 +36,7 @@
           ]
         },
         {
-          "id": "umg-40",
+          "id": "weapon_umg_40",
           "name": "UMG-40",
           "rank": 2,
           "type": "SMG",
@@ -51,7 +51,7 @@
           ]
         },
         {
-          "id": "sor-556-mk2",
+          "id": "weapon_sor_556_mk2",
           "name": "SOR-556 MK2",
           "rank": 2,
           "type": "Assault Rifle",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "id": "rpkm",
+          "id": "weapon_rpkm",
           "name": "RPKM",
           "rank": 3,
           "type": "LMG",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "id": "sgx",
+          "id": "weapon_sgx",
           "name": "SGX",
           "rank": 3,
           "type": "SMG",
@@ -93,7 +93,7 @@
           ]
         },
         {
-          "id": "ak-205",
+          "id": "weapon_ak_205",
           "name": "AK-205",
           "rank": 4,
           "type": "Carbine",
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "id": "l110",
+          "id": "weapon_l110",
           "name": "L110",
           "rank": 5,
           "type": "LMG",
@@ -121,7 +121,7 @@
           ]
         },
         {
-          "id": "m87a1",
+          "id": "weapon_m87a1",
           "name": "M87A1",
           "rank": 4,
           "type": "Shotgun",
@@ -135,7 +135,7 @@
           ]
         },
         {
-          "id": "m2010-esr",
+          "id": "weapon_m2010_esr",
           "name": "M2010 ESR",
           "rank": 1,
           "type": "Sniper",
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "id": "scw-10",
+          "id": "weapon_scw_10",
           "name": "SCW-10",
           "rank": 5,
           "type": "SMG",
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "id": "sl9",
+          "id": "weapon_sl9",
           "name": "SL9",
           "rank": 6,
           "type": "SMG",
@@ -184,7 +184,7 @@
       "name": "A Tier",
       "weapons": [
         {
-          "id": "drs-iar",
+          "id": "weapon_drs_iar",
           "name": "DRS-IAR",
           "rank": 6,
           "type": "LMG",
@@ -198,7 +198,7 @@
           ]
         },
         {
-          "id": "b36a4",
+          "id": "weapon_b36a4",
           "name": "B36A4",
           "rank": 7,
           "type": "Assault Rifle",
@@ -212,7 +212,7 @@
           ]
         },
         {
-          "id": "l85a3",
+          "id": "weapon_l85a3",
           "name": "L85A3",
           "rank": 8,
           "type": "Assault Rifle",
@@ -226,7 +226,7 @@
           ]
         },
         {
-          "id": "m4a1",
+          "id": "weapon_m4a1",
           "name": "M4A1",
           "rank": 9,
           "type": "Carbine",
@@ -240,7 +240,7 @@
           ]
         },
         {
-          "id": "m433",
+          "id": "weapon_m433",
           "name": "M433",
           "rank": 10,
           "type": "Assault Rifle",
@@ -254,7 +254,7 @@
           ]
         },
         {
-          "id": "nvo-228e",
+          "id": "weapon_nvo_228e",
           "name": "NVO-228E",
           "rank": 11,
           "type": "Assault Rifle",
@@ -268,7 +268,7 @@
           ]
         },
         {
-          "id": "qbz-192",
+          "id": "weapon_qbz_192",
           "name": "QBZ-192",
           "rank": 12,
           "type": "Carbine",
@@ -282,7 +282,7 @@
           ]
         },
         {
-          "id": "ak4d",
+          "id": "weapon_ak4d",
           "name": "AK4D",
           "rank": 13,
           "type": "Assault Rifle",
@@ -297,7 +297,7 @@
           ]
         },
         {
-          "id": "pw7a2",
+          "id": "weapon_pw7a2",
           "name": "PW7A2",
           "rank": 7,
           "type": "SMG",
@@ -311,7 +311,7 @@
           ]
         },
         {
-          "id": "m417-a2",
+          "id": "weapon_m417_a2",
           "name": "M417 A2",
           "rank": 14,
           "type": "Carbine",
@@ -325,7 +325,7 @@
           ]
         },
         {
-          "id": "psr",
+          "id": "weapon_psr",
           "name": "PSR",
           "rank": 2,
           "type": "Sniper",
@@ -338,7 +338,7 @@
           ]
         },
         {
-          "id": "sg-553r",
+          "id": "weapon_sg_553r",
           "name": "SG-553R",
           "rank": 15,
           "type": "Carbine",
@@ -352,7 +352,7 @@
           ]
         },
         {
-          "id": "kv9",
+          "id": "weapon_kv9",
           "name": "KV9",
           "rank": 8,
           "type": "SMG",
@@ -366,7 +366,7 @@
           ]
         },
         {
-          "id": "m60",
+          "id": "weapon_m60",
           "name": "M60",
           "rank": 16,
           "type": "LMG",
@@ -380,7 +380,7 @@
           ]
         },
         {
-          "id": "usg-90",
+          "id": "weapon_usg_90",
           "name": "USG-90",
           "rank": 9,
           "type": "SMG",
@@ -395,7 +395,7 @@
           ]
         },
         {
-          "id": "m1014",
+          "id": "weapon_m1014",
           "name": "M1014",
           "rank": 10,
           "type": "Shotgun",
@@ -408,7 +408,7 @@
           ]
         },
         {
-          "id": "m123k",
+          "id": "weapon_m123k",
           "name": "M123K",
           "rank": 17,
           "type": "LMG",
@@ -423,7 +423,7 @@
           ]
         },
         {
-          "id": "kts100-mk8",
+          "id": "weapon_kts100_mk8",
           "name": "KTS100 MK8",
           "rank": 18,
           "type": "LMG",
@@ -441,7 +441,7 @@
       "name": "B Tier",
       "weapons": [
         {
-          "id": "tr-7",
+          "id": "weapon_tr_7",
           "name": "TR-7",
           "rank": 19,
           "type": "Assault Rifle",
@@ -456,7 +456,7 @@
           ]
         },
         {
-          "id": "m277",
+          "id": "weapon_m277",
           "name": "M277",
           "rank": 20,
           "type": "Carbine",
@@ -472,7 +472,7 @@
           ]
         },
         {
-          "id": "grt-bc",
+          "id": "weapon_grt_bc",
           "name": "GRT-BC",
           "rank": 21,
           "type": "Carbine",
@@ -486,7 +486,7 @@
           ]
         },
         {
-          "id": "svdm",
+          "id": "weapon_svdm",
           "name": "SVDM",
           "rank": 22,
           "type": "DMR",
@@ -501,7 +501,7 @@
           ]
         },
         {
-          "id": "m240l",
+          "id": "weapon_m240l",
           "name": "M240L",
           "rank": 23,
           "type": "LMG",
@@ -516,7 +516,7 @@
           ]
         },
         {
-          "id": "sv-98",
+          "id": "weapon_sv_98",
           "name": "SV-98",
           "rank": 3,
           "type": "Sniper",
@@ -531,7 +531,7 @@
           ]
         },
         {
-          "id": "m250",
+          "id": "weapon_m250",
           "name": "M250",
           "rank": 24,
           "type": "LMG",
@@ -546,7 +546,7 @@
           ]
         },
         {
-          "id": "lmr27",
+          "id": "weapon_lmr27",
           "name": "LMR27",
           "rank": 25,
           "type": "DMR",
@@ -563,7 +563,7 @@
           ]
         },
         {
-          "id": "m39-emr",
+          "id": "weapon_m39_emr",
           "name": "M39 EMR",
           "rank": 26,
           "type": "DMR",
@@ -583,7 +583,7 @@
       "name": "C Tier",
       "weapons": [
         {
-          "id": "svk-86",
+          "id": "weapon_svk_86",
           "name": "SVK-8.6",
           "rank": 27,
           "type": "DMR",
@@ -597,7 +597,7 @@
           ]
         },
         {
-          "id": "p18",
+          "id": "weapon_p18",
           "name": "P18",
           "rank": 11,
           "type": "Secondary",
@@ -615,28 +615,28 @@
       "name": "D Tier",
       "weapons": [
         {
-          "id": "185ks-k",
+          "id": "image_185ks_k",
           "name": "18.5KS-K",
           "rank": 12,
           "type": "Shotgun",
           "attachments": []
         },
         {
-          "id": "es-57",
+          "id": "weapon_es_57",
           "name": "ES 5.7",
           "rank": 13,
           "type": "Secondary",
           "attachments": []
         },
         {
-          "id": "m45a1",
+          "id": "weapon_m45a1",
           "name": "M45A1",
           "rank": 14,
           "type": "Secondary",
           "attachments": []
         },
         {
-          "id": "m44",
+          "id": "weapon_m44",
           "name": "M44",
           "rank": 15,
           "type": "Secondary",
