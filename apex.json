@@ -4,37 +4,37 @@
     "name": "APEX LEGENDS META",
     "weapons": [
       {
-        "id": "VK-47",
+        "id": "weapon_vk_47",
         "name": "Flatline",
         "rank": 2,
         "type": "Assault Rifle"
       },
       {
-        "id": "Nemesis",
+        "id": "weapon_nemesis",
         "name": "Nemesis",
         "rank": 5,
         "type": "Assault Rifle"
       },
       {
-        "id": "Volt_SMG",
+        "id": "weapon_volt_smg",
         "name": "Volt",
         "rank": 1,
         "type": "SMG"
       },
       {
-        "id": "G7_Scout",
+        "id": "weapon_g7_scout",
         "name": "G-7 Scout",
         "rank": 3,
         "type": "Marksman Rifle"
       },
       {
-        "id": "Kraber",
+        "id": "weapon_kraber",
         "name": "Kraber",
         "rank": 4,
         "type": "Sniper Rifle"
       },
       {
-        "id": "Bocek_Compound_Bow",
+        "id": "weapon_bocek_compound_bow",
         "name": "Bocek",
         "rank": 6,
         "type": "Bow"
@@ -46,55 +46,55 @@
       "name": "A Tier",
       "weapons": [
         {
-          "id": "R-99_SMG",
+          "id": "weapon_r_99_smg",
           "name": "R-99",
           "rank": 1,
           "type": "SMG"
         },
         {
-          "id": "Rampage_LMG",
+          "id": "weapon_rampage_lmg",
           "name": "Rampage",
           "rank": 2,
           "type": "LMG"
         },
         {
-          "id": "Peacekeeper",
+          "id": "weapon_peacekeeper",
           "name": "Peacekeeper",
           "rank": 3,
           "type": "Shotgun"
         },
         {
-          "id": "Prowler_Burst_PDW",
+          "id": "weapon_prowler_burst_pdw",
           "name": "Prowler",
           "rank": 4,
           "type": "SMG"
         },
         {
-          "id": "30-30_Repeater",
+          "id": "weapon_30_30_repeater",
           "name": "30-30 Repeater",
           "rank": 5,
           "type": "Marksman Rifle"
         },
         {
-          "id": "Mastiff_Shotgun",
+          "id": "weapon_mastiff_shotgun",
           "name": "Mastiff",
           "rank": 6,
           "type": "Shotgun"
         },
         {
-          "id": "C.A.R._SMG",
+          "id": "weapon_car_smg",
           "name": "CAR",
           "rank": 7,
           "type": "SMG"
         },
         {
-          "id": "m600-spitfire",
+          "id": "weapon_m600_spitfire",
           "name": "M600 Spitfire",
           "rank": 8,
           "type": "LMG"
         },
         {
-          "id": "Wingman",
+          "id": "weapon_wingman",
           "name": "Wingman",
           "rank": 9,
           "type": "Pistol"
@@ -105,43 +105,43 @@
       "name": "B Tier",
       "weapons": [
         {
-          "id": "Charge_Rifle",
+          "id": "weapon_charge_rifle",
           "name": "Charge Rifle",
           "rank": 1,
           "type": "Sniper Rifle"
         },
         {
-          "id": "HAVOC_Rifle",
+          "id": "weapon_havoc_rifle",
           "name": "Havoc",
           "rank": 2,
           "type": "Assault Rifle"
         },
         {
-          "id": "EVA-8_Auto",
+          "id": "weapon_eva_8_auto",
           "name": "EVA-8",
           "rank": 3,
           "type": "Shotgun"
         },
         {
-          "id": "R-301_Carbine",
+          "id": "weapon_r_301_carbine",
           "name": "R-301",
           "rank": 4,
           "type": "Assault Rifle"
         },
         {
-          "id": "P2020",
+          "id": "weapon_p2020",
           "name": "P2020",
           "rank": 5,
           "type": "Pistol"
         },
         {
-          "id": "Devotion_LMG",
+          "id": "weapon_devotion_lmg",
           "name": "Devotion",
           "rank": 6,
           "type": "LMG"
         },
         {
-          "id": "L-STAR_EMG",
+          "id": "weapon_l_star_emg",
           "name": "L-Star",
           "rank": 7,
           "type": "LMG"
@@ -152,37 +152,37 @@
       "name": "C Tier",
       "weapons": [
         {
-          "id": "Mozambique_Shotgun",
+          "id": "weapon_mozambique_shotgun",
           "name": "Mozambique",
           "rank": 1,
           "type": "Shotgun"
         },
         {
-          "id": "Triple_Take",
+          "id": "weapon_triple_take",
           "name": "Triple Take",
           "rank": 2,
           "type": "Marksman Rifle"
         },
         {
-          "id": "Sentinel",
+          "id": "weapon_sentinel",
           "name": "Sentinel",
           "rank": 3,
           "type": "Sniper Rifle"
         },
         {
-          "id": "Longbow_DMR",
+          "id": "weapon_longbow_dmr",
           "name": "Longbow",
           "rank": 4,
           "type": "Sniper Rifle"
         },
         {
-          "id": "Hemlok_Burst_AR",
+          "id": "weapon_hemlok_burst_ar",
           "name": "Hemlok",
           "rank": 5,
           "type": "Assault Rifle"
         },
         {
-          "id": "RE-45",
+          "id": "weapon_re_45",
           "name": "RE-45 Burst",
           "rank": 6,
           "type": "Pistol"
@@ -193,7 +193,7 @@
       "name": "D Tier",
       "weapons": [
         {
-          "id": "Alternator_SMG",
+          "id": "weapon_alternator_smg",
           "name": "Alternator",
           "rank": 1,
           "type": "SMG"
