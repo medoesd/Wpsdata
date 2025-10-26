@@ -1140,10 +1140,10 @@
       ]
     },
     {
-      "id": "weapon_mtz_762",
-      "name": "MTZ-762",
-      "rank": 51,
-      "type": "Battle Rifle",
+          "id": "mtz_762",
+          "name": "MTZ-762",
+          "rank": 51,
+          "type": "Battle Rifle",
       "attachments": [
         { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
         { "name": "MTZ-PRECISION BLACKTHORN BARREL", "type": "Barrel" },
